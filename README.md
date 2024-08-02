@@ -1,1 +1,6 @@
-# RS9newweb
+# RS8puzzle games 
+1.BOMB GAME
+2.ROLL DICE 
+3. CAT BLIND
+4. COUNTER
+5. GUESS THE NO:
