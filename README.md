@@ -5,3 +5,5 @@
 4. COUNTER
 5. GUESS THE NO:
 6.wordcheck
+
+got to work on this project asap
